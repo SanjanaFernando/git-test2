@@ -1,3 +1,4 @@
 Hello world
 bye.text
 back again
+This is a new line
